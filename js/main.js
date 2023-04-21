@@ -19,7 +19,7 @@
     disableAt: false,
     customToggle: '.toggle',
     levelSpacing: 40,
-    navTitle: 'Grafizen Paris Menu',  
+    navTitle: 'Grafizen Ventures Menu',  
     levelTitles: true,
     labelClose: false,
     levelTitleAsBack: true,   
